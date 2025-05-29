@@ -1,0 +1,40 @@
+.listItemCard {
+    background: white;
+    color: rgb(103, 103, 221);
+}
+
+.listItemCard p {
+    margin: 0;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.listItemCard span {
+    display: inline-block;
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 20px;
+    border: 0.3px solid #ccc;
+}
+
+.name {
+    width: 60%;
+}
+
+.age {
+    width: 30%;
+}
+
+.action {
+    width: 10%;
+}
+
+.title {
+    background: #2ebaee;
+    color: aliceblue;
+}
+
+.icon {
+    color: red;
+    cursor: pointer;
+}
